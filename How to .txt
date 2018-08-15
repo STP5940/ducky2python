@@ -1,0 +1,6 @@
+install Python 3.7.0 >> https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
+open cmd run command: pip install pyautogui
+run file ducky2python.py Enter
+input Name file
+
+Demo video https://www.facebook.com/Apiwan2526/videos/527818004315907/
